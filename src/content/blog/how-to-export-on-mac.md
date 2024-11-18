@@ -1,6 +1,6 @@
 ---
 heroImage: /src/assets/images/macos.jpg
-category: Category 1
+category: Tutorial
 description: How to export your godot game to MacOS
 pubDate: 2024-10-19T07:00:00.000Z
 tags:
